@@ -1,0 +1,27 @@
+.item {
+    color: blue;
+}
+
+.item img {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+
+.buttonLike {
+    width: 20px;
+    height: 20px;
+    border: none;
+    background-color: white;
+}
+
+.buttonLike img {
+    width: 20px;
+    height: 20px;
+
+}
+
+.likesCount {
+    display: flex;
+  align-items: center
+}
