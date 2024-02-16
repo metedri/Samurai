@@ -1,0 +1,11 @@
+.item {
+    text-decoration: none;
+    color: black;
+}
+.active {
+    color: white;
+    background-color: #ff6bcc;
+    border-radius: 4px;
+}
+
+
